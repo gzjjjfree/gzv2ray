@@ -1,4 +1,4 @@
-module github.com/gzjjjfree/gzv2ray/core
+module github.com/gzjjjfree/gzv2ray
 
 go 1.23.2
 
